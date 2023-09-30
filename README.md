@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @uwutest77
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on web projects
